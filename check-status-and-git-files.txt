@@ -30,3 +30,4 @@ GIT DIFF
 GIT ADD . 
 
 - to add all the files to the staging area I must type "git add ."
+- every time I add a new file and folder to my project I nedd to run the git add . command
