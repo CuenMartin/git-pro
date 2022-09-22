@@ -16,3 +16,6 @@ GIT COMMIT
 - now the changes will be saved and I can when I made the change and why I made the change 
 - when I commit files I should be giving good deatials as to why the change has been made
 - it will also say it has 12 insertion for example, insertion just means "how many lines I have in my file"
+- once I do all the commits i need to do and I type "git status" then it will say that there are no commits to be made
+- if a file has been changed and I say git status then it will tell me when a file has been changed and that 
+I still need to make the change
