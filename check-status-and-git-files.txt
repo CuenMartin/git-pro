@@ -82,3 +82,11 @@ GIT CHECKOUT
 - if i was to change to the branch of cuen for example i would say: 
 git checkout cuen and it will tell me that it si switched to cuen
 
+GIT CHECKOUT -b 
+
+- this is a shorthand way of adding a  new branch from within the branch you are already in 
+- sop you will go from the branch you are in straight to the new branch which has been created 
+- it will also copy evrything fronm within the branch that you are in 
+
+TBH 10:57 I must go to the sidenav branch cause I am about to create a sidenav in the git branch so I must 
+remember to say "git checkout sidnav" before I start the lesson again 
