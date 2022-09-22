@@ -57,6 +57,8 @@ IMPORTANT NOTE ABOUT BRANCHES -- If i make a new branch but I fuck up and delete
 then I will still have the orginal code in the master branch and I can still get the infomration back
 -also with most companies the master branch is what you will see live, so all the other developers will
 have their own branch on their local computer 
+- if I change back to master from another brach I will see that master doesn't have the same changes 
+as the other brancvhes that I have been committing changes too, this makes git really good for projects 
 
 
 
