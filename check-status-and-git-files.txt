@@ -1,0 +1,18 @@
+GIT STATUS 
+- Git status is going to give us the status of any changes or any files that have been added to the folder
+- but I could run the "git status" command and it will tell me that there are not files that are being tracked
+- to track the files I will run the command "git add"
+
+GIT ADD 
+
+- so if I want to track the file of index.html then I will say "git add index.html"
+- from there we need to commit the file since after you do git add it is waiting for you to commit it
+
+GIT COMMIT 
+
+- we will have to do something called git commit 
+- git commit is saving the file at the exact time so we can go back and reference the changes 
+- here is how I commit the file: git commit -am "I added a new file called html"
+- now the changes will be saved and I can when I made the change and why I made the change 
+- when I commit files I should be giving good deatials as to why the change has been made
+- it will also say it has 12 insertion for example, insertion just means "how many lines I have in my file"
