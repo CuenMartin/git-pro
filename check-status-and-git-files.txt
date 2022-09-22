@@ -23,4 +23,10 @@ I still need to make the change
 
 GIT DIFF 
 
-- git diff will actually show us the changes that we made in that file 
+- git diff will actually show us the changes that we made in that file, it will highlight the changes in green
+- it will also tell me when I have deleted something, it highlight the deletion in red 
+
+
+GIT ADD . 
+
+- to add all the files to the staging area I must type "git add ."
