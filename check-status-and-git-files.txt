@@ -31,3 +31,52 @@ GIT ADD .
 
 - to add all the files to the staging area I must type "git add ."
 - every time I add a new file and folder to my project I nedd to run the git add . command
+
+GIT LOG 
+
+- git log is where we get to see the log of all the changes that have been commited
+- it will show the date and time that the changes have been commited 
+- there is a long string that is after the commit log that looks like this for example: 
+"commit 199688debc2f39998d2836a6c08bc54b5b8aaf54" this will be useful for if you want to go back in time 
+
+GIT LOG -p
+
+- git log -p is the command i would use if I want to check a specific file for example: 
+- I would say git log -p index.html and that would show me the changes i made for that specific file 
+- to get out of the command you just need to press "q"
+
+
+GIT BLAME 
+
+- git blame is the command you run when you want to see who made changes on a particular file 
+- so if i wanted to check who made changes on a css file i would say git blame css/main.css
+
+GIT BRANCHES 
+
+IMPORTANT NOTE ABOUT BRANCHES -- If i make a new branch but I fuck up and delete shit or anything like that 
+then I will still have the orginal code in the master branch and I can still get the infomration back
+-also with most companies the master branch is what you will see live, so all the other developers will
+have their own branch on their local computer 
+
+
+
+- say one person was working on the css and another was working on javascript, each of these would have a branch 
+- so pretty much  eah individual has a branch 
+- right now I am working on the master branch which is nver recomended 
+- what i need to do is create my own branch, this is what you do it companmies 
+- so to run this command I will say: git branch cuen -- so now I have created my own branch 
+- everytime you say git branch it will make a copy of the current branch that you are in
+
+
+GIT BRANCH -AV 
+
+- this is how you check what branch you are actually in 
+- it is going to tell us that we are still in the master branch and you will see which branch you are in because 
+it will show you a green color on the branch that is currently being used 
+
+GIT CHECKOUT 
+
+- this is how you check what branch you are actually in 
+- if i was to change to the branch of cuen for example i would say: 
+git checkout cuen and it will tell me that it si switched to cuen
+
