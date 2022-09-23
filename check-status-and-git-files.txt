@@ -113,6 +113,15 @@ MERGING BRANCHES
 - then I will merge it to the my branch called "cuen" which has the header in it 
 - after I merge the branches I need to say: git add . then I need to commit the merge
 - if i dont commit the merge then it wont add it properly 
+- if you get an error saying that you have a conflict then look at your file on vs code. 
+the conflict is that you merged a file form another file but the code is on the same line as the file 
+you merged from, so you you will get a choice on whether you want to add both or delete one. 
+- when a conflict error is there look at the options you are given in vs code 
+
+HOW TO UNDO CHANGES 
+
+- so say I have made some changes on a certain file but I wan to undo those changes 
+- I would say this git checkout --index.html or the name of that file 
 
 
 
