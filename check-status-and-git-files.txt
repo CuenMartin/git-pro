@@ -86,7 +86,13 @@ GIT CHECKOUT -b
 
 - this is a shorthand way of adding a  new branch from within the branch you are already in 
 - sop you will go from the branch you are in straight to the new branch which has been created 
-- it will also copy everything from within the branch that you are in 
+- it will also copy everything from within the branch that you are in, this will copy everything from the master 
 
-TBH 10:57 I must go to the sidenav branch cause I am about to create a sidenav in the git branch so I must 
-remember to say "git checkout sidnav" before I start the lesson again 
+DELETING BRANCHES 
+
+- here we are going to create another branch and mess it up so we can delete it 
+
+
+
+
+
