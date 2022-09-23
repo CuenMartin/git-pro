@@ -90,7 +90,11 @@ GIT CHECKOUT -b
 
 DELETING BRANCHES 
 
-- here we are going to create another branch and mess it up so we can delete it 
+- here we are going to create another branch called sidnav2 and mess it up so we can delete it 
+- here is how you delete it: git branch -D sidnav2
+- now it will be delted 
+- this is good for when you feel something is messed up or if it's taking too much space and you want to delete it
+
 
 
 
