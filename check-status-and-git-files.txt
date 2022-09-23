@@ -96,6 +96,22 @@ DELETING BRANCHES
 - this is good for when you feel something is messed up or if it's taking too much space and you want to delete it
 
 
+MERGE BRANCHES AND SOLVING CONFLICTS FROM
+
+- best advice is to merge the master branch into the feature branch
+- never merge feature into master the first time
+- if you have something that has broken in the feature branch and you merge it into master then 
+you will bring those bugs into master so this is why it's bad practice 
+- the master branch has to be a clean branch and you don't want to bring any problems into the master branches
+- the master branch is the main website 
+- so if you make any changes to your branch you must merge the master to your branch in case you've 
+made mistakes in you bracnh so the bugs dont go over to the master branch 
+
+MERGING BRANCHES 
+
+- so first I will make a list item in the master branch 
+- then I will merge it to the my branch called "cuen" which has the header in it 
+
 
 
 
