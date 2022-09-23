@@ -111,6 +111,8 @@ MERGING BRANCHES
 
 - so first I will make a list item in the master branch 
 - then I will merge it to the my branch called "cuen" which has the header in it 
+- after I merge the branches I need to say: git add . then I need to commit the merge
+- if i dont commit the merge then it wont add it properly 
 
 
 
