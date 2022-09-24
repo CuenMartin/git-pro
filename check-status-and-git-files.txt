@@ -130,6 +130,13 @@ GIT RESET --HARD HEAD
 - do this is you say git reset --hard HEAD
 - this is good for if you mess something up and you want to go back to the last commit 
 
+GOT BACK IN TIME WITH RESET 
+
+- say its thurday and you have messed something up and you want to reset it to go to last friday 
+- this should be used very carefully cause you can lose your commits you made after that commit that 
+you reset too 
+- 
+
 
 
 
