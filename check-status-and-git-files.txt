@@ -120,11 +120,19 @@ you merged from, so you you will get a choice on whether you want to add both or
 
 HOW TO UNDO CHANGES 
 
+GIT CHECKOUT -- (put in the name of the file you want to change)
 - so say I have made some changes on a certain file but I wan to undo those changes 
 - I would say this git checkout --index.html or the name of that file 
 
+GIT RESET --HARD HEAD
 
-TBH 136 
+- now lets say you made changes to multiple files within the branch and you want to get rid of all changes 
+- do this is you say git reset --hard HEAD
+- this is good for if you mess something up and you want to go back to the last commit 
+
+
+
+
 
 
 
