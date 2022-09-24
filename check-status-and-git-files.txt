@@ -135,19 +135,7 @@ GOT BACK IN TIME WITH RESET
 - say its thurday and you have messed something up and you want to reset it to go to last friday 
 - this should be used very carefully cause you can lose your commits you made after that commit that 
 you reset too 
-
-GIT RESET --HARD (NAME OF REF NUMBER OF THE COMMIT)
-
--- to go back in time to the a particular commit type git reset --hard and then you type 
-in the the reference number of the commit you want to go back to 
-- you will lose all the commits that you did after it so use it carefully 
-
-GIT REVERT --HARD (NAME OF REF NUMBER)
-
-- this will reset it but it will allow you to keep the log 
-- all you have to do is say git revert and copy the reference number of the commit you want to
-go back to 
-- after you run the command press "i" too insert a message 
+- 
 
 
 
